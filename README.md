@@ -62,5 +62,5 @@ Once it's all done you can run `grunt less` or `grunt watch` to make sure that `
 
 # References
 
-* AdminLTE [https://github.com/almasaeed2010/AdminLTE](repository)
-* AdminLTE [https://adminlte.io/themes/AdminLTE/index2.html](demo)
+* AdminLTE [repository](https://github.com/almasaeed2010/AdminLTE)
+* AdminLTE [demo](https://adminlte.io/themes/AdminLTE/index2.html)
